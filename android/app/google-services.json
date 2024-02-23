@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "152988607287",
+    "project_id": "my-crapa-project",
+    "storage_bucket": "my-crapa-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152988607287:android:7bcf303a6ace58639430b2",
+        "android_client_info": {
+          "package_name": "com.example.futter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCau5Rzro69slS8FTBA_SH-ulhtEodBhdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
